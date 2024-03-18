@@ -1,5 +1,5 @@
 // dummy file with some vars setup for repl testing
-import { Train, Route, Station, SearchEngine } from './src/example'
+import { Train, Route, Station, SearchEngine } from './src/'
 
 const katowice = new Station('Katowice');
 const gliwice = new Station('Gliwice');
